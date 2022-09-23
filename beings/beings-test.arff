@@ -1,0 +1,17 @@
+@relation beings-test-weka.filters.unsupervised.attribute.Remove-R1
+
+@attribute Size numeric
+@attribute Legs numeric
+@attribute Locomotion {fly,walk,swim}
+@attribute Offsprings {eggs,baby}
+@attribute type {insect,mammal,bird,reptile,fish}
+
+
+@data
+1,2,fly,eggs,bird
+1,2,fly,baby,mammal
+2,2,swim,eggs,bird
+6,0,swim,baby,mammal
+50,0,swim,baby,mammal
+0.1,6,walk,eggs,insect
+0.1,6,walk,eggs,insect

@@ -1,0 +1,8 @@
+Name,Size,Legs,Locomotion,Offsprings,type
+duck,1,2,fly,eggs,bird
+bat,1,2,fly,baby,mammal
+penguin,2,2,swim,eggs,bird
+dolphin,6,0,swim,baby,mammal
+whale,50,0,swim,baby,mammal
+ant,0.1,6,walk,eggs,insect
+wasp,0.1,6,walk,eggs,insect
