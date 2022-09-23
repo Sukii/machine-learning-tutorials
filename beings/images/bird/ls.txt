@@ -1,0 +1,6 @@
+/home/skv/Pictures/ml/beings/birds/owl.jpg
+/home/skv/Pictures/ml/beings/birds/myna.jpg
+/home/skv/Pictures/ml/beings/birds/eagle.jpg
+/home/skv/Pictures/ml/beings/birds/cuckoo.jpg
+/home/skv/Pictures/ml/beings/birds/crow.jpg
+/home/skv/Pictures/ml/beings/birds/crane.jpg

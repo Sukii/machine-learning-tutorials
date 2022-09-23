@@ -1,0 +1,8 @@
+/home/skv/Pictures/ml/beings/insect/ticks.jpg
+/home/skv/Pictures/ml/beings/insect/spider.jpg
+/home/skv/Pictures/ml/beings/insect/scorpion.jpg
+/home/skv/Pictures/ml/beings/insect/mite.jpg
+/home/skv/Pictures/ml/beings/insect/house_fly.jpg
+/home/skv/Pictures/ml/beings/insect/cricket.jpg
+/home/skv/Pictures/ml/beings/insect/cockroach.jpg
+/home/skv/Pictures/ml/beings/insect/butterfly.jpg

@@ -1,0 +1,9 @@
+/home/skv/Pictures/ml/beings/mammal/tiger.jpg
+/home/skv/Pictures/ml/beings/mammal/human.jpg
+/home/skv/Pictures/ml/beings/mammal/horse.jpg
+/home/skv/Pictures/ml/beings/mammal/goat.jpg
+/home/skv/Pictures/ml/beings/mammal/elephant.jpg
+/home/skv/Pictures/ml/beings/mammal/dog.jpg
+/home/skv/Pictures/ml/beings/mammal/deer.jpg
+/home/skv/Pictures/ml/beings/mammal/cow.jpg
+/home/skv/Pictures/ml/beings/mammal/cat.jpg

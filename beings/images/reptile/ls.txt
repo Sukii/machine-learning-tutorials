@@ -1,0 +1,4 @@
+/home/skv/Pictures/ml/beings/reptile/monitor_lizard.jpg
+/home/skv/Pictures/ml/beings/reptile/lizard.jpeg
+/home/skv/Pictures/ml/beings/reptile/dinosaur.jpg
+/home/skv/Pictures/ml/beings/reptile/crocodile.jpg
